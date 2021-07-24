@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Home = () => (
+export default App; )
    <div>
    Night fell across the marina. The last of the sun’s rays painted everything pale yellow before the horizon extinguished them, leaving the world murky gray. The water beyond the dry dock bay was dark, and people left the water’s edge quickly as night fell.
 
